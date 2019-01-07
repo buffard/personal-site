@@ -43,3 +43,7 @@ section {
 .borderBox {
   border: 1px solid red;
 }
+
+.iconsMargin {
+  margin: 5px;
+}
